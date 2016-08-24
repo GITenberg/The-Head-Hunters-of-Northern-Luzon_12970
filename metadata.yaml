@@ -1,0 +1,28 @@
+_repo: The-Head-Hunters-of-Northern-Luzon_12970
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Willcox, Cornélis De Witt
+    alias: Willcox, Cornelis De Witt
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '4757'
+    url: http://www.gutenberg.org/2009/agents/4757
+    wikipedia: http://en.wikipedia.org/wiki/Cornelis_DeWitt_Willcox
+description: ''
+gutenberg_issued: '2004-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12970'
+  lccn: '12024964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Luzon (Philippines) -- Description and travel'
+- !lcsh 'Igorot (Philippine people)'
+- !lcc 'DS'
+- GITenberg
+title: The Head Hunters of Northern Luzon
+url: http://www.gutenberg.org/ebooks/12970
